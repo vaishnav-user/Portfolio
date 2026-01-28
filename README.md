@@ -33,7 +33,7 @@ Screenshots of the website (desktop and mobile views) are included in the reposi
 
 ## Live Link
 GitHub Pages Live URL:  
-https://<vaishnav-user>.github.io/<Portfolio>/
+https://github.com/vaishnav-user/Portfolio
 
 ---
 
